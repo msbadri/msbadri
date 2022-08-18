@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Badri
-- 👀 I’m interested in Python and Data Science
-- 🌱 I’m currently learning OOP in the Python
-- 💞️ I’m looking to collaborate on Data Science & Machine Learning Projects
+- 👋 Hi, I’m Mohammad Sadegh Badri
+- 👀 I’m interested in Computational Programming and Statistical in Mechanical Engineering
+- 🌱 I’m currently learning Data Science and OOP in Python to utilize these tools in my field
+- 💞️ I’m looking to collaborate on Computational and Data Science Projects
 - 📫 How to reach me: m.sa.badri@gmail.com
 
 <!---
